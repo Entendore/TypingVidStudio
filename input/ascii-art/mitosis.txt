@@ -1,0 +1,11 @@
+  MITOSIS — one cell becomes two (stages)
+  ------------------------------------------------------------
+     PROPHASE        METAPHASE       ANAPHASE        TELOPHASE
+    ,---------,     ,---------,     ,---------,     ,---------,
+   ;  X    X   ;   ;    |     ;    ;  \/   /\  ;   ;  ,-. ,-.  ;
+   ;    X  X   ;   ; ---+---  ;    ;  \/   /\  ;   ;  '-' '-'  ;
+   ;  X    X   ;   ;    |     ;    ;           ;   ;   '--'    ;
+    '---------'     '---------'     '---------'     '---------'
+
+     chromosomes     align on the    copies pulled   two nuclei;
+     condense        cell equator    to the poles    cell pinches

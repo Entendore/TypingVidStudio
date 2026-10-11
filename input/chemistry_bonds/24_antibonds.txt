@@ -1,0 +1,15 @@
+24. ANTIBONDS (Molecular Orbital Theory)
+    When atomic orbitals combine destructively, creating a "node" 
+    (zero electron density) between the nuclei. They push atoms apart.
+    
+      Sigma Antibond (σ*):
+         (+)      (-)
+        [Atom]|||[Atom]   <-- ||| = Node (repulsive force)
+         (-)      (+)
+
+      Pi Antibond (π*):
+         (+)      (-)
+          ~~  |||  ~~
+        [Atom]|||[Atom]   <-- Destructive sideways overlap
+          ~~  |||  ~~
+         (-)      (+)

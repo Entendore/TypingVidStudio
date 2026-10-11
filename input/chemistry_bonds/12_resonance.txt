@@ -1,0 +1,17 @@
+12. RESONANCE & DELOCALIZED BONDS (e.g., Benzene)
+    
+          H   H             H   H
+           \ /               \ /
+            C                 C
+          // \              / \\
+         C    C     ↔     C    C
+         |    |          ||   |
+         C    C          C    C
+          \ /               \ /
+           C                 C
+          / \               / \
+         H   H             H   H
+       Form A              Form B
+       
+    Electrons are not fixed in one double bond, but 
+    delocalized evenly across the entire ring.

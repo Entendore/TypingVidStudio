@@ -1,0 +1,5 @@
+Developer: Hey, did you push the latest commit? 🚀
+Reviewer: Not yet, I'm reviewing the PR. 🔍
+Developer: Take your time, but the client is asking. ⏳
+Reviewer: Ok, done! Merged it. ✅ 
+Developer: Awesome! Party time! 🎉

@@ -1,0 +1,10 @@
+# Core — required
+PySide6>=6.5
+numpy>=1.24
+
+# Optional — syntax highlighting via pygments (regex fallback exists)
+pygments>=2.15
+
+# Dev / test
+pytest>=7.4
+pytest-timeout>=2.1

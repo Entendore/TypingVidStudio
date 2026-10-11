@@ -1,0 +1,12 @@
+14. PEPTIDE BOND (Biochemistry - Proteins)
+    
+          O   H               O   H
+          ||  |               ||  |
+      R - C - N - C - R' ↔ R - C = N - C - R'
+          |   |   |           |   |   |
+          H   Cα  O           H   Cα  O
+              |   ||              |   ||
+              R'  OH              R'  OH
+              
+    An amide linkage connecting amino acids. Has partial 
+    double-bond character, making it rigid and planar.

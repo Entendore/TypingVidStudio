@@ -1,0 +1,40 @@
+
+
+
+[build-system] ### `pyproject.toml`
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "typing-video-studio"
+version = "1.0.0"
+description = "Renders keystroke-animation videos of code and text with synthesized keyboard audio"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["PySide6>=6.5", "numpy>=1.24"]
+
+[project.optional-dependencies]
+highlight = ["pygments"]
+dev = ["pytest", "pytest-timeout"]
+
+[project.scripts]
+studio = "studio:main"
+
+[tool.setuptools]
+py-modules = [
+  "studio_lib",
+  "studio",
+  "code_yt_mode",
+  "text_emoji_mode",
+  "multi_window_mode",
+  "jr_vs_sr_mode",
+  "unified_main",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["."]
+timeout = 180
+
+[tool.setuptools.urls]
+# Homepage/Repository — fill in when published

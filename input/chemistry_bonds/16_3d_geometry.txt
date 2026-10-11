@@ -1,0 +1,12 @@
+16. 3D MOLECULAR GEOMETRY (VSEPR Theory)
+    
+    Using Wedges (coming OUT of page) and Dashes (going INTO page):
+    
+          H
+          |
+      H - C - H      (H, C, and top H are in the plane of the page)
+         / \
+       ◀H   H▶       (Left H is coming OUT, Right H is going IN)
+      (Wedge)(Dash)
+      
+    Represents a Tetrahedral geometry (like Methane, CH₄).

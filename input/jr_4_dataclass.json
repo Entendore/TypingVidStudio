@@ -1,0 +1,7 @@
+{
+    "title": "User Model",
+    "language": "python",
+    "description": "Junior uses a plain class with a long parameter list; Senior uses @dataclass for clarity.",
+    "junior_code": "class User:\n    def __init__(self, name, age, email, role):\n        self.name = name\n        self.age = age\n        self.email = email\n        self.role = role # long parameter list\n",
+    "senior_code": "from dataclasses import dataclass\n\n@dataclass\nclass User:\n    name: str\n    age: int\n    email: str\n    role: str = \"viewer\"\n"
+}

@@ -1,0 +1,17 @@
+  BLOOD CELLS — red cells, white cell, platelets (smear)
+  ------------------------------------------------------------
+          ___             ___
+        ,'   ',          ,'   ',             ___
+       ;  ,-.  ;        ;  ,-.  ;          ,'   ',
+       ; ( o ) ;        ; ( o ) ;         ;  ,-.  ;
+        ; '-' ;          ; '-' ;         ; ( o ) ;
+         '---'            '---'           ; '-' ;
+                                           '---'
+          ___        ,-------,
+        ,'   ',     ;  o   o  ;         . .    .
+       ;  ,-.  ;    ;   ___   ;          \ /
+       ; ( o ) ;   ;   (ooo)  ;         . ' .
+        ; '-' ;    ;  o     o ;      platelets
+         '---'      '-------'
+      red blood cells      white blood cell
+      (biconcave discs)    (lobed nucleus ooo)

@@ -1,0 +1,9 @@
+15. DISULFIDE BRIDGE (Biochemistry - Protein Folding)
+    
+        S ——— S
+       /       \
+    Protein   Protein
+    (Cysteine)(Cysteine)
+    
+    A strong covalent bond between two sulfur atoms that 
+    helps stabilize the 3D folding of proteins.

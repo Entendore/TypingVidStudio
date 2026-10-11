@@ -1,0 +1,7 @@
+{
+    "title": "HTTP Request Handler",
+    "language": "python",
+    "description": "Junior crashes on non-200 responses; Senior handles timeouts and exceptions properly.",
+    "junior_code": "import requests\ndef get_data(url):\n    r = requests.get(url)\n    return r.json() # crashes if not 200 OK\n",
+    "senior_code": "import requests\nfrom requests.exceptions import RequestException\n\ndef get_data(url: str, timeout: int = 5) -> dict:\n    try:\n        r = requests.get(url, timeout=timeout)\n        r.raise_for_status()\n        return r.json()\n    except RequestException as e:\n        print(f\"Error: {e}\")\n        return {}\n"
+}

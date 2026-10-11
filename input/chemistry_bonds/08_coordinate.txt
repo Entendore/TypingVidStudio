@@ -1,0 +1,10 @@
+8. COORDINATE/DATIVE BOND
+   
+       H        H
+        \      /
+         N →→ H
+        /      \
+       H        H
+   
+   Ammonium ion (NH₄⁺)
+   Arrow shows both electrons from N

@@ -1,0 +1,8 @@
+11. LONDON DISPERSION FORCES (Temporary Intermolecular)
+    
+       (+)             (-)
+      [Atom] ········· [Atom]
+       (-)             (+)
+       
+    Caused by temporary, random fluctuations in electron 
+    clouds creating instantaneous dipoles. Present in ALL molecules.

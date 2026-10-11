@@ -1,0 +1,73 @@
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# ── Studio runtime artifacts ──────────────────────────────────────────────
+settings.json          # user's saved settings — machine-local
+studio.log
+log_*.log              # per-mode rotating logs
+log_*.log.1
+log_*.log.2
+temp/                  # demo files, audio WAVs, PNG frame fallbacks
+input/                 # user's source files
+output/                # rendered videos
+ambient/
+
+# ── OS / editor ───────────────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+# Added by Git Repo Creator
+# Media and Archives
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.mkv
+*.avi
+*.webm
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.iso
+*.blend
+# Python / Dev
+.env
+.env.local
+*.tmp
+*.bak
+node_modules/
+
+# Added by Git Repo Creator
+*.flv
+*.jpeg
+*.jpg
+*.png
+*.wmv
+# AI Models
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+checkpoints/
+model_cache/
+models/
+
+# Added by Git Repo Creator
+# Media, Archives, and AI Models
+# GitHub Actions
+.github/

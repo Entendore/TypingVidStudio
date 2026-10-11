@@ -1,0 +1,7 @@
+{
+    "title": "URL Builder",
+    "language": "python",
+    "description": "Junior manually concatenates strings; Senior uses urllib.parse.urlencode.",
+    "junior_code": "def build_url(base, params):\n    url = base + \"?\"\n    for k, v in params.items():\n        url += k + \"=\" + str(v) + \"&\"\n    return url[:-1]\n",
+    "senior_code": "from urllib.parse import urlencode\n\ndef build_url(base: str, params: dict) -> str:\n    return f\"{base}?{urlencode(params)}\"\n"
+}

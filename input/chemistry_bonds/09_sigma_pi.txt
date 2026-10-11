@@ -1,0 +1,19 @@
+9. SIGMA (σ) AND PI (π) BONDS (Orbital Overlap)
+   
+   Sigma (σ): Head-on overlap (Stronger, allows rotation)
+      (s)       (p)
+       _         _
+      / \       / \
+     |   |=====|   |  <-- electron density directly between nuclei
+      \_/       \_/
+       *         *    <-- atomic nuclei
+
+   Pi (π): Sideways overlap (Weaker, restricts rotation)
+      (p)       (p)
+       _         _
+      / \       / \
+     |   |     |   |  
+      \_/       \_/
+       *         *    <-- nuclei
+       ||       ||
+       ~~       ~~    <-- electron density above and below axis

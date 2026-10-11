@@ -1,0 +1,8 @@
+19. PI (π) BACKBONDING (Synergic Bonding in Metal Carbonyls)
+    A two-way street of electron sharing between a metal and CO.
+    
+               M ←———————— C ≡ O   (1. Sigma donation: C lone pair → Metal)
+               |           |
+               M ————————→ C ≡ O   (2. Pi back-donation: Metal d-electrons → C-O π*)
+               
+    Result: Strengthens the M-C bond, but weakens the C≡O triple bond.

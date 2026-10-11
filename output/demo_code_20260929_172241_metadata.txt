@@ -1,0 +1,3 @@
+Title: Demo Code — Typing ASMR (python)
+Description: Watch me type Demo Code from scratch. Duration 0m 20s. Sound: Mechanical.
+Tags: asmr, coding, developer, mechanical, programming, python, typing

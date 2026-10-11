@@ -1,0 +1,16 @@
+20. MECHANICAL BONDS (Supramolecular Topology)
+    Not electron sharing, but physical interlocking of molecules!
+    
+    CATENANE (Interlocking Rings):
+       _       _
+     /   \   /   \
+    |  A  | |  B  |      Rings cannot be separated without
+     \ _ /   \ _ /       breaking a covalent bond.
+
+    ROTAXANE (Dumbbell threaded through a Ring):
+       Stopper                 Stopper
+      [======]=============== [======]
+             |    Ring    |
+             |   /----\   |   <-- The ring is physically trapped
+             |  |      |  |       on the molecular "axle".
+             |   \----/   |

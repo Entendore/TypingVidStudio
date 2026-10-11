@@ -1,0 +1,7 @@
+{
+    "title": "Statistics Function",
+    "language": "python",
+    "description": "Junior uses basic logic with no error handling; Senior uses standard library and type hints.",
+    "junior_code": "def get_stats(nums):\n    avg = sum(nums) / len(nums)\n    m = max(nums)\n    # hardcoded logic, no error handling\n    return avg, m\n",
+    "senior_code": "from statistics import mean\nfrom typing import List, Tuple\n\ndef get_stats(nums: List[float]) -> Tuple[float, float]:\n    if not nums:\n        raise ValueError(\"List cannot be empty\")\n    return mean(nums), max(nums)\n"
+}

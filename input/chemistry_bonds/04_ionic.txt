@@ -1,0 +1,14 @@
+4. IONIC BOND (transfer of electrons)
+   
+      Na⁺  ·········  Cl⁻
+        (+)            (-)
+   
+   Sodium Chloride (NaCl)
+   Na gives electron → Cl
+   
+   Electron transfer:
+   
+      Na  ──────→  Cl
+     [11e⁻]        [17e⁻]
+     becomes       becomes
+      Na⁺           Cl⁻

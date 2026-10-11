@@ -1,0 +1,13 @@
+13. NETWORK COVALENT BONDS (Giant Macromolecules)
+    
+        DIAMOND (sp³)             GRAPHITE (sp²)
+             C                         C === C
+           / | \                     /         \
+         C---C---C                 C           C
+           \ | /                     \       /
+             C                         C === C
+            / \                       /         \
+          C     C                   C           C
+       (3D rigid lattice)             \       /
+                                        C === C
+                                     (2D sheets, weak forces between)

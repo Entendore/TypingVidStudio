@@ -1,0 +1,8 @@
+10. DIPOLE-DIPOLE INTERACTIONS (Permanent Intermolecular)
+    
+        δ+   δ-         δ+   δ-
+        H ——— Cl ······· H ——— Cl
+        (Molecule 1)     (Molecule 2)
+        
+    The positive end of one polar molecule attracts the 
+    negative end of another.

@@ -1,0 +1,12 @@
+23. AGOSTIC INTERACTIONS (Organometallics)
+    A C-H bond acts as a ligand, donating electron density to an 
+    electron-deficient transition metal (M).
+    
+                L
+                |
+          L ——— M ····· H ——— C — R
+                |      (Agostic interaction)
+                L
+                
+    The M·····H-C interaction stabilizes the metal center without 
+    fully breaking the C-H bond.

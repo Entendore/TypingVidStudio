@@ -1,0 +1,9 @@
+6. HYDROGEN BOND (weak intermolecular)
+   
+      δ+   δ-     δ+   δ-
+       H — O ······ H — O
+            |            |
+            H            H
+   
+   Water molecules (H₂O)
+   Dashed line (·····) = hydrogen bond

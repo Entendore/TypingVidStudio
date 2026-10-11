@@ -1,0 +1,8 @@
+22. HALOGEN BONDING (σ-hole Interaction)
+    A non-covalent bond where a halogen acts as an electrophile.
+    
+           R ——— I ·········· :B
+                 ^            ^
+                 |            Lewis Base (e.g., Amine lone pair)
+                 "Sigma-hole" (An electron-deficient region 
+                               at the tip of the Iodine atom)

@@ -1,0 +1,14 @@
+  MITOCHONDRION — the powerhouse of the cell (cross-section)
+  ------------------------------------------------------------
+             ___________________________
+          ,-'                           '-,
+        ,'      ,---.      ,---.         ',
+       /       ;     ;    ;     ;         \
+      ;        ;     ;    ;     ;          ;
+      ;        ;     ;    ;     ;          ;
+       \       ;     ;    ;     ;         /
+        ',     '---'      '---'         ,'
+          '-,_______________________,-'
+
+       outer membrane | inner membrane folds = cristae
+       matrix = interior space, where ATP is made

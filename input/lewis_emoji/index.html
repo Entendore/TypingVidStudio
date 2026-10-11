@@ -1,0 +1,28 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>Biomolecule Lewis Structures</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#f4f5fa;--card:#fff}
+body.dark{--bg:#0f1118;--card:#1a1d29}
+body{background:var(--bg);font-family:system-ui,sans-serif}
+header{position:sticky;top:0;display:flex;flex-wrap:wrap;gap:10px;
+  align-items:center;padding:14px 24px;background:var(--card);
+  box-shadow:0 2px 12px rgba(0,0,0,.08)}
+h1{font-size:20px;flex:1}
+.btn{border:1.5px solid #d5dae8;background:transparent;border-radius:999px;
+  padding:7px 16px;cursor:pointer;font-size:14.5px}
+.btn.on{background:#3a4a8c;color:#fff;border-color:#3a4a8c}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));
+  gap:20px;padding:20px 24px}
+.c{background:var(--card);border-radius:16px;padding:12px;
+  box-shadow:0 4px 16px rgba(0,0,0,.06)}
+.c:hover{transform:translateY(-4px);transition:.2s}
+.c img{width:100%;border-radius:10px;display:block}
+.c .n{text-align:center;padding:10px;font-weight:600}
+</style></head><body>
+<header><h1>Lewis Structure Gallery</h1>
+<button class="btn" onclick="document.body.classList.toggle('dark')">Dark / Light</button>
+</header>
+<div id="grid"><div class="c" data-key="water"><a href="water.svg" target="_blank"><img loading="lazy" src="water.svg"></a><div class="n">water</div></div><div class="c" data-key="ammonia"><a href="ammonia.svg" target="_blank"><img loading="lazy" src="ammonia.svg"></a><div class="n">ammonia</div></div><div class="c" data-key="methane"><a href="methane.svg" target="_blank"><img loading="lazy" src="methane.svg"></a><div class="n">methane</div></div><div class="c" data-key="co2"><a href="co2.svg" target="_blank"><img loading="lazy" src="co2.svg"></a><div class="n">co2</div></div><div class="c" data-key="o2"><a href="o2.svg" target="_blank"><img loading="lazy" src="o2.svg"></a><div class="n">o2</div></div><div class="c" data-key="glycine"><a href="glycine.svg" target="_blank"><img loading="lazy" src="glycine.svg"></a><div class="n">glycine</div></div><div class="c" data-key="alanine"><a href="alanine.svg" target="_blank"><img loading="lazy" src="alanine.svg"></a><div class="n">alanine</div></div><div class="c" data-key="cysteine"><a href="cysteine.svg" target="_blank"><img loading="lazy" src="cysteine.svg"></a><div class="n">cysteine</div></div><div class="c" data-key="pyruvate"><a href="pyruvate.svg" target="_blank"><img loading="lazy" src="pyruvate.svg"></a><div class="n">pyruvate</div></div><div class="c" data-key="urea"><a href="urea.svg" target="_blank"><img loading="lazy" src="urea.svg"></a><div class="n">urea</div></div><div class="c" data-key="peptide"><a href="peptide.svg" target="_blank"><img loading="lazy" src="peptide.svg"></a><div class="n">peptide</div></div><div class="c" data-key="adenine"><a href="adenine.svg" target="_blank"><img loading="lazy" src="adenine.svg"></a><div class="n">adenine</div></div><div class="c" data-key="guanine"><a href="guanine.svg" target="_blank"><img loading="lazy" src="guanine.svg"></a><div class="n">guanine</div></div><div class="c" data-key="cytosine"><a href="cytosine.svg" target="_blank"><img loading="lazy" src="cytosine.svg"></a><div class="n">cytosine</div></div><div class="c" data-key="thymine"><a href="thymine.svg" target="_blank"><img loading="lazy" src="thymine.svg"></a><div class="n">thymine</div></div><div class="c" data-key="uracil"><a href="uracil.svg" target="_blank"><img loading="lazy" src="uracil.svg"></a><div class="n">uracil</div></div><div class="c" data-key="glucose"><a href="glucose.svg" target="_blank"><img loading="lazy" src="glucose.svg"></a><div class="n">glucose</div></div><div class="c" data-key="atp"><a href="atp.svg" target="_blank"><img loading="lazy" src="atp.svg"></a><div class="n">atp</div></div><div class="c" data-key="hbond"><a href="hbond.svg" target="_blank"><img loading="lazy" src="hbond.svg"></a><div class="n">hbond</div></div></div>
+</body></html>

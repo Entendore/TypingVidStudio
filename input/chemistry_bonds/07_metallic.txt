@@ -1,0 +1,9 @@
+7. METALLIC BOND
+   
+     M⁺   M⁺   M⁺
+       \  |  / 
+    ~~~~e⁻e⁻e⁻~~~~    ← "sea of electrons"
+       /  |  \
+     M⁺   M⁺   M⁺
+   
+   Metal cations in electron sea

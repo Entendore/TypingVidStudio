@@ -1,0 +1,15 @@
+17. THREE-CENTER TWO-ELECTRON (3c-2e) BONDS (e.g., Diborane B₂H₆)
+    Also known as "bridge bonds". Two electrons hold THREE atoms together.
+    
+                 H(bridge)
+                /         \
+       H(term)             H(term)
+              \           /
+               B         B     <-- No direct B-B bond!
+              /           \
+       H(term)             H(term)
+                \         /
+                 H(bridge)
+                 
+    The top and bottom H atoms each share their 1 electron 
+    with BOTH Boron atoms simultaneously.

@@ -1,0 +1,7 @@
+{
+    "title": "Data Processing",
+    "language": "python",
+    "description": "Junior uses a verbose for-loop; Senior uses a list comprehension with type hints.",
+    "junior_code": "def process_data(data):\n    result = []\n    for item in data:\n        if item > 10:\n            result.append(item * 2)\n    return result\n",
+    "senior_code": "def process_data(data: list) -> list:\n    return [item * 2 for item in data if item > 10]\n"
+}

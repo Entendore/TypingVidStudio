@@ -1,0 +1,13 @@
+18. QUADRUPLE BONDS & DELTA (δ) BONDS (Transition Metals)
+    Found in metal dimers like [Re₂Cl₈]²⁻ or Chromium(II) acetate.
+    Contains 1 Sigma + 2 Pi + 1 Delta bond (8 shared electrons!).
+    
+      Sigma (σ):  Head-on overlap      []======[]
+      Pi (π):     Sideways overlap      ( )====( )
+                                        ( )====( )
+      Delta (δ):  Face-to-face d-orbital overlap (4 lobes)
+                  
+                  \ /        \ /
+                   X          X      <-- 4-lobed d-orbitals
+                  / \        / \         overlapping face-to-face
+                --   --    --   --

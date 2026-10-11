@@ -1,0 +1,15 @@
+21. BANANA BONDS (Bent Bonds in Strained Rings)
+    Found in Cyclopropane (C₃H₃). Severe 60° ring strain prevents 
+    normal head-on orbital overlap.
+    
+          C
+         / \
+        /   \       <-- Normal bonds would be straight lines
+       C-----C
+       
+      ACTUAL ORBITAL OVERLAP:
+          C
+        _/ \_
+      /       \     <-- Electron density bows OUTWARD
+     C---------C       outside the internuclear axis, 
+                       resembling a banana shape.
